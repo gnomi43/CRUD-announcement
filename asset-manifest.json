@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CRUD-announcement/static/css/main.b479b524.chunk.css",
-    "main.js": "/CRUD-announcement/static/js/main.fedb1e57.chunk.js",
-    "main.js.map": "/CRUD-announcement/static/js/main.fedb1e57.chunk.js.map",
+    "main.js": "/CRUD-announcement/static/js/main.0b7fdd1c.chunk.js",
+    "main.js.map": "/CRUD-announcement/static/js/main.0b7fdd1c.chunk.js.map",
     "runtime-main.js": "/CRUD-announcement/static/js/runtime-main.615ef13d.js",
     "runtime-main.js.map": "/CRUD-announcement/static/js/runtime-main.615ef13d.js.map",
     "static/js/2.62e02ce2.chunk.js": "/CRUD-announcement/static/js/2.62e02ce2.chunk.js",
     "static/js/2.62e02ce2.chunk.js.map": "/CRUD-announcement/static/js/2.62e02ce2.chunk.js.map",
     "index.html": "/CRUD-announcement/index.html",
-    "precache-manifest.aafd0093563c827c75e81886aa195531.js": "/CRUD-announcement/precache-manifest.aafd0093563c827c75e81886aa195531.js",
+    "precache-manifest.2adf405a3540e75feb0a5d4a0a79842b.js": "/CRUD-announcement/precache-manifest.2adf405a3540e75feb0a5d4a0a79842b.js",
     "service-worker.js": "/CRUD-announcement/service-worker.js",
     "static/css/main.b479b524.chunk.css.map": "/CRUD-announcement/static/css/main.b479b524.chunk.css.map",
     "static/js/2.62e02ce2.chunk.js.LICENSE.txt": "/CRUD-announcement/static/js/2.62e02ce2.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.615ef13d.js",
     "static/js/2.62e02ce2.chunk.js",
     "static/css/main.b479b524.chunk.css",
-    "static/js/main.fedb1e57.chunk.js"
+    "static/js/main.0b7fdd1c.chunk.js"
   ]
 }

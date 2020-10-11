@@ -1,0 +1,20 @@
+.container{
+    margin: 0 auto;
+    max-width: 1250px;
+}
+
+.main-page{
+    &__title{
+        text-align: center;
+    }
+}
+
+.announcement{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.form-wrapper{
+    margin-bottom: 20px;
+}

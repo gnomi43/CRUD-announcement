@@ -1,0 +1,44 @@
+.announcement__list{
+    margin: 0;
+    padding: 15px;
+
+    list-style: none;
+
+    &-block{
+        min-width: 300px;
+    
+        border: 2px solid gray;
+        border-radius: 5px;
+    }
+
+    &-title{
+        margin: 0;
+        padding: 15px;
+        
+        font-size: 20px;
+        font-weight: 700;
+        text-align: center;
+
+        border-bottom: 2px solid gray;
+    }
+
+    
+    &-empty{
+        margin-bottom: 20px;
+        padding: 0 10px;
+
+        &-logo{
+            display: block;
+            margin: 0 auto;
+            margin-top: 20px;
+        }
+    
+        &-text{
+            margin: 0;
+
+            text-align: center;
+            font-size: 18px;
+            font-weight: 700;
+        }
+    }
+}

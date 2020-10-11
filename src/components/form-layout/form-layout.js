@@ -45,6 +45,7 @@ const FormLayout = ({
                             unmask={true}
                             onAccept={onChangePhone}
                             placeholder='+7 (___) ___-__ -__'
+                            minLength={16}
                             className="announcement__form-imput"
                             required
                             />
